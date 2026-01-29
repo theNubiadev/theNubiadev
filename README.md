@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Ajibola Ajaiyeoba
+## Hi there 👋 I'm Ajibola Ajaiyeoba
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theNubiadev)](https://github.com/theNubiadev/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theNubiadev&show_icons=true)
